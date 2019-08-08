@@ -1,11 +1,14 @@
 {
   "name": "kuku",
   "version": "0.1.0",
+  "engines": {
+    "node": "11.12.0",
+    "yarn": "1.17.3"
+  },
   "private": true,
   "dependencies": {
     "axios": "^0.19.0",
     "express": "^4.17.1",
-    "fsevents": "^2.0.7",
     "google-map-react": "^1.1.4",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
